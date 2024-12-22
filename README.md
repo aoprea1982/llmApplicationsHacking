@@ -8,4 +8,4 @@ chain multiple LLMs application article generation.
 }
 ```
 
-#6 in https://myllmdoc.com/#leaderboard
+#6 "jungletsubasa" https://myllmdoc.com/#leaderboard
