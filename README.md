@@ -1,0 +1,2 @@
+# llmApplicationsHacking
+Various hacks
